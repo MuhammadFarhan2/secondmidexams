@@ -6,3 +6,6 @@ exports.home = (req, res) => {
 exports.registration = (req, res) => {
     res.render("registration")
 }
+exports.showData= (req, res) => {
+    res.render("showData")
+}
