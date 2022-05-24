@@ -1,0 +1,28 @@
+{
+  "name": "secondmidexams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammadFarhan2/secondmidexams.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuhammadFarhan2/secondmidexams/issues"
+  },
+  "homepage": "https://github.com/MuhammadFarhan2/secondmidexams#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "body-parser": "^1.19.2",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "mongoose": "^6.3.4",
+    "nodemon": "^2.0.15"
+  }
+}
